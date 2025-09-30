@@ -27,7 +27,6 @@ Which challenge have you decided to compete for?
 <br>
 Cruise controll that uses maps and road signs to adjust the speed of the car
 
-
 2. How Do You Work
 <br>
 -Development Process (planning/tracking)
