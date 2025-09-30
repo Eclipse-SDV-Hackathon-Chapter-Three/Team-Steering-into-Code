@@ -17,7 +17,7 @@ Daniela Padilha |	Daniela-Padilha,
 Gabriel	Aguiar  | larocqueg
 <br>
 Daniel Silva    | Denionline
-<br>
+<br><br>
 
 Which challenge have you decided to compete for?
 
@@ -25,20 +25,18 @@ Which challenge have you decided to compete for?
 
 1 - Core ideia
 <br>
-Developing a new smart cruise control system that syncs the speed of the car with the speedlimit indicated by the roadsigns and a database, the intend is to be used as an assistance for the driver, it can have a passive mode where it only warns when it past the speed limit and an authorative mode where it agressively applies the limit to the car.
-<br>
+Cruise controll that uses maps and road signs to adjust the speed of the car
+<br><br>
 2. How Do You Work
 <br>
 -Development Process (planning/tracking)
 <br>
 We started by having a brainstorm so that we could find a solution for the problem that was presented to us. We created a notion file and a github to be able to share information regarding the project.
-We decided to connect to the host machine so that we can first run some simulations and from that see what we can improve or make after reading documentaion and the python files
-<br>
-
+We decided to connect to the host machine so that we can first run some simulations and from that see what we can improve or make after reading documentaion and the phyton files
+<br><br>
 
 -Communication on team
+The communication in our team is fluid, we try to constatly communicate problems that we encounter, and also solutions reached.
 
+<br><br>
 -Decision Making
-
-
-
