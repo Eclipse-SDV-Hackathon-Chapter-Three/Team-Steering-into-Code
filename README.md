@@ -5,7 +5,9 @@
 Team Name / Sterring into Code
 <br>
 Team Members
+<br>
 Name 	GitHub Handle 	Role(s)
+<br>
 Joao Rema 	joaorema 	
 Rafael Castro 	therappha 	
 Daniela Padilha 	Daniela-Padilha, 	
