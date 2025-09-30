@@ -1,8 +1,9 @@
 # Team-Steering-into-Code
-Solution Plan
+
+
 1. Your Team at a Glance
 Team Name / Sterring into Code
-
+<>
 
 Team Members
 Name 	GitHub Handle 	Role(s)
