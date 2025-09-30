@@ -3,8 +3,7 @@
 
 1. Your Team at a Glance
 Team Name / Sterring into Code
-<>
-
+<br>
 Team Members
 Name 	GitHub Handle 	Role(s)
 Joao Rema 	joaorema 	
