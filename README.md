@@ -26,7 +26,7 @@ Which challenge have you decided to compete for?
 1 - Core ideia
 <br>
 Cruise controll that uses maps and road signs to adjust the speed of the car
-
+<br>
 2. How Do You Work
 <br>
 -Development Process (planning/tracking)
