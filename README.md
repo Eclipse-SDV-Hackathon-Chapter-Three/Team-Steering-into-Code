@@ -6,13 +6,13 @@ Team Name / Sterring into Code
 <br>
 Team Members
 <br>
-Name            |  GitHub Handle |	    Role(s)
+Name            |  GitHub Handle 
 <br>
 Joao Rema 	    | joaorema
 <br>
 Rafael Castro 	| therappha
 <br>
-Daniela Padilha |	Daniela-Padilha,
+Daniela Padilha |	Daniela-Padilha
 <br>
 Gabriel	Aguiar  | larocqueg
 <br>
@@ -34,11 +34,9 @@ Developing a new smart cruise control system that syncs the speed of the car wit
 We started by having a brainstorm so that we could find a solution for the problem that was presented to us. We created a notion file and a github to be able to share information regarding the project.
 We decided to connect to the host machine so that we can first run some simulations and from that see what we can improve or make after reading documentaion and the phyton files
 <br><br>
-
 -Communication on team
 <br>
 The communication in our team is fluid, we are constatly communicating problems that we encounter, and also solutions reached, to keep the development going smoothly.
-
 <br><br>
 -Decision Making
 <br>
