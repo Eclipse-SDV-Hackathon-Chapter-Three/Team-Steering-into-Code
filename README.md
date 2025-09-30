@@ -25,7 +25,7 @@ Which challenge have you decided to compete for?
 
 1 - Core ideia
 <br>
-Cruise controll that uses maps and road signs to adjust the speed of the car
+Developing a new smart cruise control system that syncs the speed of the car with the speedlimit indicated by the roadsigns and a database, the intend is to be used as an assistance for the driver, it can have a passive mode where it only warns when it past the speed limit and an authorative mode where it agressively applies the limit to the car.
 <br><br>
 2. How Do You Work
 <br>
