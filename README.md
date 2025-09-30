@@ -8,11 +8,16 @@ Team Members
 <br>
 Name            |  GitHub Handle |	    Role(s)
 <br>
-Joao Rema 	    | joaorema 	
-Rafael Castro 	| therappha 	
-Daniela Padilha |	Daniela-Padilha, 	
-Gabriel	Aguiar  | larocqueg 	
+Joao Rema 	    | joaorema
+<br>
+Rafael Castro 	| therappha
+<br>
+Daniela Padilha |	Daniela-Padilha,
+<br>
+Gabriel	Aguiar  | larocqueg
+<br>
 Daniel Silva    | Denionline
+<br>
 
 Which challenge have you decided to compete for?
 
