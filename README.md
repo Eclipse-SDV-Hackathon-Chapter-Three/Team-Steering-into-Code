@@ -36,7 +36,10 @@ We decided to connect to the host machine so that we can first run some simulati
 <br><br>
 
 -Communication on team
-The communication in our team is fluid, we try to constatly communicate problems that we encounter, and also solutions reached.
+<br>
+The communication in our team is fluid, we are constatly communicating problems that we encounter, and also solutions reached, to keep the development going smoothly.
 
 <br><br>
 -Decision Making
+<br>
+We did not define a leader of the group, instead we make decisions by voting.
