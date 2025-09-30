@@ -2,7 +2,9 @@
 
 
 1. Your Team at a Glance
-Team Name / Sterring into Code
+
+Team Name: Steering into Code
+
 <br>
 Team Members
 <br>
