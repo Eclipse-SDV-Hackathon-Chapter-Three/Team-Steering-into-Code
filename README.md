@@ -6,14 +6,13 @@ Team Name / Sterring into Code
 <br>
 Team Members
 <br>
-Name 	GitHub Handle 	Role(s)
+Name            |  GitHub Handle |	    Role(s)
 <br>
-Joao Rema 	joaorema 	
-Rafael Castro 	therappha 	
-Daniela Padilha 	Daniela-Padilha, 	
-Gabriel	Aguiar    larocqueg 	
-Daniel Silva       Denionline
-Challenge
+Joao Rema 	    | joaorema 	
+Rafael Castro 	| therappha 	
+Daniela Padilha |	Daniela-Padilha, 	
+Gabriel	Aguiar  | larocqueg 	
+Daniel Silva    | Denionline
 
 Which challenge have you decided to compete for?
 
