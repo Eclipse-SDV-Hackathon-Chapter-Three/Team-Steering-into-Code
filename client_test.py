@@ -47,12 +47,21 @@ def adjust_speed(vehicle, target_kmh):
 		vehicle.apply_control(carla.VehicleControl(throttle=0.3, brake=0))
 
 # detect traffic signal simulation
+import time
+import random
+
+# Assume these are initialized globally
+target_speed = 50
+last_signal_time = time.time()
+
 def simulate_traffic_signs():
-	global target_speed, last_signal_time
-	if time.time() - last_signal_time > 15:
-		target_speed = random.choice([30, 50, 70])
-	print(f"🚦 New sign detecte: limit of {target_speed} km/h")
-	last_signal_time = time.time()
+    global target_speed, last_signal_time
+    if time.time() - last_signal_time > 3.0:
+        target_speed = random.choice([30, 50, 70])
+        print(f"🚦 New sign detected: limit of {target_speed} km/h")
+        last_signal_time = time.time()
+    else:
+        print(f"⏳ No new sign. Current speed limit: {target_speed} km/h")
 	
 latest_frame = None
 # process camera img
