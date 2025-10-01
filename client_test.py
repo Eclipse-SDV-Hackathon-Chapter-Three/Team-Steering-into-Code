@@ -53,22 +53,19 @@ import random
 # Assume these are initialized globally
 target_speed = 50
 last_signal_time = time.time()
-rand_num = 0;
-print_flag = 1;
+last_announced_speed = target_speed
 
 def simulate_traffic_signs():
-    global target_speed, last_signal_time
+    global target_speed, last_signal_time, last_announced_speed
     if time.time() - last_signal_time > 3.0:
-        rand_num = random.choice([30, 50, 70])
-        if rand_num != target_speed:
-            print_flag = 1
-            target_speed = rand_num
-        if print_flag == 1:
-            print(f"🚦 New sign detected: limit of {target_speed} km/h")
+        new_speed = random.choice([30, 50, 70])
+        target_speed = new_speed
+        if new_speed != last_announced_speed:
+            print(f"🚦 New sign detected: limit of {new_speed} km/h")
+            last_announced_speed = new_speed
         last_signal_time = time.time()
     else:
-        if print_flag != 1:
-            print(f"⏳ No new sign. Current speed limit: {target_speed} km/h")
+        print(f"⏳ No new sign. Current speed limit: {target_speed} km/h")
 	
 latest_frame = None
 # process camera img
