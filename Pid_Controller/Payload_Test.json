@@ -1,0 +1,74 @@
+{
+  "messages": [
+    {
+      "uri": "AAOS/0/2/8002",
+      "payload": "1",
+      "format": "text"
+    },
+    {
+      "uri": "AAOS/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "65.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "66.5",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "68.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "69.5",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "EGOVehicle/0/2/8001",
+      "payload": "70.0",
+      "format": "text"
+    },
+    {
+      "uri": "AAOS/0/2/8002",
+      "payload": "0",
+      "format": "text"
+    }
+  ]
+}
